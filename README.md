@@ -45,13 +45,18 @@ To get started with the frontend app, follow these steps:
    npm install
 ```
 
-4. Start the development server:
+4. Configure the environment variables:
+
+Create a new .env file based on the provided .env.example.
+Update the environment variables in the .env file according to your configuration.
+
+5. Start the development server:
 
 ```bash
    npm run dev
 ```
 
-5. The frontend app should now be running on `http://localhost:5173/`.
+6. The frontend app should now be running on `http://localhost:5173/`.
 
 ## Available Scripts
 
